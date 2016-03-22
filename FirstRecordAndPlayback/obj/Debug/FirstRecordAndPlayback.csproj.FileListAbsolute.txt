@@ -1,0 +1,5 @@
+C:\Users\asus\Documents\GitHub\FirstRecordAndPlayback\FirstRecordAndPlayback\bin\Debug\FirstRecordAndPlayback.dll
+C:\Users\asus\Documents\GitHub\FirstRecordAndPlayback\FirstRecordAndPlayback\bin\Debug\FirstRecordAndPlayback.pdb
+C:\Users\asus\Documents\GitHub\FirstRecordAndPlayback\FirstRecordAndPlayback\obj\Debug\FirstRecordAndPlayback.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\GitHub\FirstRecordAndPlayback\FirstRecordAndPlayback\obj\Debug\FirstRecordAndPlayback.dll
+C:\Users\asus\Documents\GitHub\FirstRecordAndPlayback\FirstRecordAndPlayback\obj\Debug\FirstRecordAndPlayback.pdb
